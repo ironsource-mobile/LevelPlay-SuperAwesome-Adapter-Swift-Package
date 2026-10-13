@@ -22,8 +22,8 @@ let package = Package(
     ),
     .binaryTarget(
       name: "SuperAwesomeAdapterSDK",
-      url: "https://raw.githubusercontent.com/ironsource-mobile/iOS-adapters/master/superawesome-adapter/5.1.0/ISSuperAwesomeAdapter5.1.0.zip",
-      checksum: "55e47e06a3095b3f006f85850eec728cf08d4d53ad0ac1e375dc5aad6a12a403"
+      url: "https://raw.githubusercontent.com/ironsource-mobile/iOS-adapters/master/superawesome-adapter/5.2.0/ISSuperAwesomeAdapter5.2.0.zip",
+      checksum: "a4562d3b72cf71c103bcbcd1a41035bdc51f1f7484e2eb9d00c03ded8814fb39"
     )
   ]
 )
